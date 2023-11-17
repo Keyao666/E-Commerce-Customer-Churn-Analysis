@@ -26,4 +26,4 @@ The dataset has following features:
 1. The goal of this project is to build a model to predict customers who will choose to leave the company based on features provided above.
 2. Conduct exploratory data analysis to uncover insights regarding customer behavior and answer business problems, whcih will help company to make decisions in the future. Business Problems include:  
 
-## The Power BI dashboard can be found here: <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2UzYjRkN2EtZTMwOC00NzgzLTkxYTAtNDU5ZjhlYTA0OTJjIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
+#### The Power BI dashboard can be found here: <iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2UzYjRkN2EtZTMwOC00NzgzLTkxYTAtNDU5ZjhlYTA0OTJjIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>
