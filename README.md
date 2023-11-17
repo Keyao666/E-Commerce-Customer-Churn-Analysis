@@ -27,4 +27,4 @@ The dataset has following features:
 2. Conduct exploratory data analysis to uncover insights regarding customer behavior and answer business problems, whcih will help company to make decisions in the future. Business Problems include:  
 
 #### The Power BI dashboard can be found here: 
- [https://app.powerbi.com/viewr=eyJrIjoiM2UzYjRkN2EtZTMwOC00NzgzLTkxYTAtNDU5ZjhlYTA0OTJjIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9]
+ [https://app.powerbi.com/view?r=eyJrIjoiM2UzYjRkN2EtZTMwOC00NzgzLTkxYTAtNDU5ZjhlYTA0OTJjIiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9]
